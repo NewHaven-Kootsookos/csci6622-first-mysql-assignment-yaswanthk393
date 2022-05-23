@@ -1,3 +1,3 @@
 Use northwind;
-Select*from Category where
-categoryID=5;
+Select*from category where
+CategoryID=5;
